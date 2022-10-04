@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Mazam
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Mazam](https://mason.gmu.edu/~akim77/) is my personal website, hosted on GMU's Mason server.
 
 ## Available Scripts
 
